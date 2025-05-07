@@ -1,6 +1,4 @@
-Here's your updated `README.md` file for the **OrangeHRM Automation** project, with your GitHub account link included:
 
----
 
 # OrangeHRM Automation
 
@@ -94,6 +92,3 @@ OrangeHRMAutomation/
 
 This project is licensed under the MIT License.
 
----
-
-Let me know if you also want a short intro about yourself added to the README.
